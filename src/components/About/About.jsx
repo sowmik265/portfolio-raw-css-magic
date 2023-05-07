@@ -34,7 +34,7 @@ const About = () => {
               <small>50+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reprehenderit molestiae incidunt delectus sunt excepturi commodi mollitia adipisci voluptate dolor ea id odio blanditiis qui ex veritatis magnam aliquid perspiciatis?</p>
+          <p>Experienced web developer with a passion for creating clean and user-friendly websites. Proficient in HTML, CSS, JavaScript, and various frameworks. Dedicated to delivering high-quality work that meets clients' needs.</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

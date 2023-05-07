@@ -16,27 +16,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Designing intuitive digital experiences for users.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Improving user satisfaction through thoughtful design.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Researching user needs to inform design decisions.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Crafting visually appealing and functional designs.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Collaborating with developers to ensure implementation.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Iterating designs based on user feedback.</p>
             </li>
           </ul>
         </article>
@@ -48,31 +52,33 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Writing clean and efficient code for websites.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Developing responsive and user-friendly web applications.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Integrating various technologies for seamless functionality.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Troubleshooting and debugging website issues.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Implementing security measures to protect user data.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Collaborating with designers to bring their vision to life.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Continuously learning and adapting to new technologies.</p>
             </li>
           </ul>
         </article>
@@ -84,27 +90,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Creating compelling and engaging content for various platforms.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Conducting research to inform content strategy.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Collaborating with designers for visual content creation.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Optimizing content for search engine ranking.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Proofreading and editing content for accuracy.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Keeping up-to-date with industry trends and best practices.</p>
             </li>
           </ul>
         </article>
