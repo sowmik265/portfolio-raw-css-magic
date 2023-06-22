@@ -74,10 +74,6 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Collaborating with designers to bring their vision to life.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
               <p>Continuously learning and adapting to new technologies.</p>
             </li>
           </ul>
