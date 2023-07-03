@@ -2,7 +2,7 @@ import React from 'react'
 import './footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
-import {IoLogoTwitter} from 'react-icons/io'
+import {BsLinkedin} from 'react-icons/bs'
 
 const Footer = () => {
   return (
@@ -17,9 +17,9 @@ const Footer = () => {
         <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href='https://facebook.com'><FaFacebookF></FaFacebookF></a>
-        <a href='https://instagram.com'><FiInstagram></FiInstagram></a>
-        <a href='https://twitter.com'><IoLogoTwitter></IoLogoTwitter></a>
+        <a href='https://www.facebook.com/sowmik.ahamed'><FaFacebookF></FaFacebookF></a>
+        <a href='https://www.instagram.com/sowmik.ahamed/'><FiInstagram></FiInstagram></a>
+        <a href='https://www.linkedin.com/in/tanvir-sowmik'><BsLinkedin></BsLinkedin></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Tanvir Ahamed. All rights reserved</small>
